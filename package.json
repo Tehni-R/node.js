@@ -23,7 +23,6 @@
     "mongoose": "^9.1.6",
     "multer": "^2.1.1",
     "multer-storage-cloudinary": "^4.0.0",
-    "nodemon": "^3.1.11",
-    "vercel": "^50.28.0"
+    "nodemon": "^3.1.11"
   }
 }
